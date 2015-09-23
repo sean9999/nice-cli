@@ -1,6 +1,6 @@
 {
   "name": "@sean9999/nice-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An ES6-Powered Command Line Utility Framework",
   "main": "lib/Nice-cli",
   "scripts": {
