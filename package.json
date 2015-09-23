@@ -1,0 +1,33 @@
+{
+  "name": "@sean9999/nice-cli",
+  "version": "1.0.0",
+  "description": "An ES6-Powered Command Line Utility Framework",
+  "main": "lib/Nice-cli",
+  "scripts": {
+    "test": "gulp test",
+    "build": "gulp build",
+    "lint": "gulp lint"
+  },
+  "bin": {
+    "mycli": "harmony-shell.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sean9999/nice-cli.git"
+  },
+  "keywords": [
+    "es6",
+    "es2015",
+    "cli",
+    "command",
+    "line",
+    "utility",
+    "framework"
+  ],
+  "author": "Sean Macdonald <sean@crazyhorsecoding.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sean9999/nice-cli/issues"
+  },
+  "homepage": "https://github.com/sean9999/nice-cli#readme"
+}
