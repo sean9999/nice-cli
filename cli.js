@@ -10,7 +10,7 @@ var scope = {
 
 var myCli = new require('./lib/Nice-cli')(scope);
 
-var command = require('./commands/' + process.argv[2] )(myCli.factory,scope);
+var command = require('./commands/'+process.argv[2])( myCli.factory,scope );
 
 //  do
 command.then(console.log).catch(console.error);
